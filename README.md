@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Caua Bilhar Dacca, tenho 20 anos e sou de Fortaleza. Atualmente, estou cursando Ciências da Computação na Unifor.
+Me chamo Cauã Bilhar Dacca, tenho 20 anos e sou de Fortaleza. Atualmente, estou cursando Ciências da Computação na Unifor.
 
 ---
 
