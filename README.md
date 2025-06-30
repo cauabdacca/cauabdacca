@@ -5,7 +5,7 @@
 Me chamo Caua Bilhar Dacca, tenho 20 anos e sou de Fortaleza. Atualmente, estou cursando Ciências da Computação na Unifor.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/Caua Dacca" target="_blank">
+  <a href="https://www.linkedin.com/in/cauabdacca@gmail.com" target="_blank">
     <img 
       alt="LinkedIn"
       title="LinkedIn"
