@@ -71,25 +71,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauabdacca&t
 </p>
 
 ---
-
-# 📌 Projetos em Destaque
-
-🚧 Alguns projetos que estou desenvolvendo:
-
-### 📱 Aplicações
-
-- Sistema de **gerenciamento e orçamento de obras**
-- Aplicações **mobile com React Native**
-- Sistemas **web modernos com React**
-
-### ⚙️ Backend
-
-- APIs REST
-- Sistemas de autenticação
-- Integração com banco de dados
-
----
-
+ 
 # 🌐 Redes Sociais
 
 <p>
