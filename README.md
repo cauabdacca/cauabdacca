@@ -21,7 +21,7 @@ Tenho interesse em desenvolver **sistemas escaláveis, aplicações modernas e s
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,python" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,django" />
 </p>
 
 ### 🗄️ Banco de Dados
