@@ -15,7 +15,7 @@ Tenho interesse em desenvolver **sistemas escaláveis, aplicações modernas e s
 ### 🖥️ Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,androidstudio" />
 </p>
 
 ### ⚙️ Backend
